@@ -93,7 +93,7 @@ cd OutfitCast
 pip install streamlit
 
 # 3. Run the app
-streamlit run OutfitCast.py
+streamlit run mdpprojectgpt.py
 ```
 
 Your app will open automatically in your default browser at  
