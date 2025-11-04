@@ -1,6 +1,7 @@
 # 👕 OutfitCast — Weather-Based Smart Outfit Recommendation System  
 
-> *Dress smarter for today’s weather.*
+> *Dress smarter for today’s weather.*  
+> **Forecast your outfit.**
 
 ---
 
@@ -16,17 +17,21 @@ Our project aims to bring all of this into **one intelligent, personalized platf
 
 ## 💡 Solution  
 
-**OutfitCast** is a smart, single-page web application that analyzes local weather conditions and recommends outfits best suited for the user’s comfort and environment.
+**OutfitCast** is a smart, single-page web application that analyzes local weather conditions and recommends outfits best suited for the user’s comfort and environment.  
 
-Built entirely in **Python (Streamlit)**, the app simulates a real-time experience — complete with weather summaries, hourly forecasts, and outfit cards — while being API-ready for live integration in the future.
+Built entirely in **Python (Streamlit)**, the app simulates a real-time experience — complete with weather summaries, hourly forecasts, and outfit cards — while being API-ready for live integration in the future.  
 
-### 🎯 Core Features
+✨ *Because sometimes, what you wear depends on what the sky says — OutfitCast helps you forecast your outfit.*  
+
+---
+
+## 🎯 Core Features
 - 🌦️ **City-based Forecast:** Select any Indian capital from a dropdown to get weather-linked outfit ideas.  
 - 👕 **Outfit Recommendation Engine:** Suggests tops, bottoms, outerwear, footwear, and accessories.  
 - 🕒 **Time & Forecast Display:** Real-time local time display and a 6-hour forecast simulator.  
 - 🧠 **Rule-Based Logic:** Temperature, humidity, and rainfall rules determine clothing suggestions.  
 - 💻 **Responsive UI:** Designed with a sleek dark theme and modern spacing for readability and polish.  
-- ⚙️ **Future-Ready:** The structure is built to plug directly into the Open-Meteo API for real live data.  
+- ⚙️ **Future-Ready:** The structure is built to plug directly into the Open-Meteo API for live weather data.  
 
 ---
 
@@ -58,7 +63,7 @@ Built entirely in **Python (Streamlit)**, the app simulates a real-time experien
 
 - A **complete frontend skeleton** ready for live data integration.  
 - A **responsive, accessible, production-ready UI** made entirely in Python — no HTML or JS required.  
-- A **clean modular structure** (one-file build) that can be easily expanded for personalization, wardrobes, or notifications.  
+- A **clean modular structure** (single-file build) that can be easily expanded for personalization or notifications.  
 - **Robust placeholder logic** mimicking real API behavior (with graceful error handling already structured).  
 
 ---
@@ -73,7 +78,7 @@ Planned enhancements include:
 - ⚙️ **User Preferences Panel** — choose comfort vs. style bias  
 - 🔔 **Daily Notifications** — morning outfit reminders based on the day’s forecast  
 - 📱 **Progressive Web App (PWA)** — add to home screen & offline functionality  
-- 🧵 **AI-Powered Recommendation Engine** — machine learning to learn user preferences over time  
+- 🧵 **AI-Powered Recommendation Engine** — learns user style preferences over time  
 
 ---
 
